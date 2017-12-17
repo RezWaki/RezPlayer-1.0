@@ -5,6 +5,8 @@ Using WinPHP (DS)
 
 Version 1.0
 
+Folder "ext" must be in same folder, that all libraries/executables
+
 # Basic functionality
 1. Play music :p
 
